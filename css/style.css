@@ -1,0 +1,15 @@
+.bg-blu {
+    background-color: blue;
+    color: white;
+    padding: 1rem;
+    border: solid 1px white;
+    text-align: center;
+}
+
+.bg-verde {
+    background-color: lightgreen;
+    color: white;
+    padding: 1rem;
+    border: solid 1px blue;
+    text-align: center;
+}
