@@ -13,3 +13,7 @@
     border: solid 1px blue;
     text-align: center;
 }
+
+.row:nth-child(1) {
+    padding-bottom: 1rem;
+}
